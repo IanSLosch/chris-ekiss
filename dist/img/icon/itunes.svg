@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="42" height="42" viewBox="0 0 42 42">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="42" height="42" transform="translate(0 -0.452)" fill="#353031"/>
+    </clipPath>
+  </defs>
+  <g id="itunes" transform="translate(0 0.452)" clip-path="url(#clip-path)">
+    <path id="Path_30" data-name="Path 30" d="M20.75,0A20.75,20.75,0,1,0,41.5,20.75,20.75,20.75,0,0,0,20.75,0m11,18.917L26,23.1a.678.678,0,0,0-.246.758l2.2,6.764a.678.678,0,0,1-1.044.759L21.148,27.2a.678.678,0,0,0-.8,0L14.6,31.379a.678.678,0,0,1-1.044-.759l2.2-6.764A.678.678,0,0,0,15.5,23.1L9.75,18.917a.678.678,0,0,1,.4-1.227h7.113a.678.678,0,0,0,.645-.469l2.2-6.764a.678.678,0,0,1,1.29,0l2.2,6.764a.678.678,0,0,0,.645.469h7.113a.678.678,0,0,1,.4,1.227" transform="translate(1.146 0.382)" fill="#353031"/>
+  </g>
+</svg>
